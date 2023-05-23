@@ -1,0 +1,59 @@
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////Employee Class
+Employee A First Name: Jay
+Employee A Last Name: Inslee
+Employee A Salary: $171,898.00
+Employee B First Name: Eric
+Employee B Last Name: Adams
+Employee B Salary: $210,000.00
+Employee C First Name: Eric
+Employee C Last Name: Garcetti
+Employee C Salary: $248,141.00
+
+After 10% raise
+Employee A new salary: $189,087.80
+Employee B new salary: $231,000.00
+Employee C new salary: $272,955.10
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////Displaying a Bar Chart
+Please enter an integer between 1 and 30:
+3
+Please enter an integer between 1 and 30:
+5
+Please enter an integer between 1 and 30:
+8
+Please enter an integer between 1 and 30:
+13
+Please enter an integer between 1 and 30:
+21
+***
+*****
+********
+*************
+*********************
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////Guess-the-Number Game
+Guess a number between 1 and 1000
+850
+Too high. Try again.
+Guess a number between 1 and 1000
+840
+Too low. Try again.
+Guess a number between 1 and 1000
+845
+Congratulations. You guessed the number!
+Press 1 to play again, 2 to quit this game
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////Computer-Assisted Instruction
+How much is 3 times 5?
+15
+Very good!
+How much is 7 times 8?
+56
+Very good!
+How much is 3 times 5?
+15
+Very good!
+How much is 5 times 6?
+0
+No. Please try again.
+0
+No. Please try again.
+30
+Very good!
